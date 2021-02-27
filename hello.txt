@@ -2,3 +2,5 @@
 arr.foreach(function(item) {
 console.log(item);
 });
+
+
